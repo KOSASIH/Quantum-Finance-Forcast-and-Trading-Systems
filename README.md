@@ -104,3 +104,5 @@ We also appreciate the broader community of users and contributors who have prov
 This project wouldn't be possible without the continuous support from our partners and stakeholders. Your belief in the potential of quantum computing in finance has been a driving force behind our pursuit of excellence.
 
 As we embark on this transformative journey, we acknowledge and appreciate the collective effort that has brought the Quantum Finance Forecast and Trading System to fruition. Together, we look forward to shaping the future of finance through innovation, collaboration, and technological advancement.
+
+QFFTS TEAM
