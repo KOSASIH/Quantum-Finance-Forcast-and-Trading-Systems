@@ -1,5 +1,51 @@
 # RNN-QFFTS:
 
+# Description 
+
+Welcome to the Quantum Finance Forecast and Trading System, a groundbreaking repository at the intersection of quantum computing and financial technology. This comprehensive platform is designed to redefine how we approach forecasting and trading in the dynamic world of finance.
+
+### Features:
+
+1. **Quantum-Powered Algorithms:**
+   Leverage the capabilities of quantum computing for enhanced data processing, enabling more sophisticated and precise financial predictions.
+
+2. **Advanced Forecasting Models:**
+   Utilize state-of-the-art predictive models that go beyond traditional methods, incorporating quantum principles to analyze market trends and make informed forecasts.
+
+3. **Trading Strategies Optimization:**
+   Benefit from advanced optimization algorithms that dynamically adjust trading strategies based on real-time market conditions, maximizing returns and minimizing risks.
+
+4. **Machine Learning Integration:**
+   Seamlessly integrate machine learning techniques to adapt and improve the system's performance over time, enhancing its ability to adapt to evolving market dynamics.
+
+5. **Real-Time Market Data Analysis:**
+   Access and analyze real-time market data efficiently, ensuring timely decision-making and responsiveness to rapidly changing financial landscapes.
+
+6. **User-Friendly Interface:**
+   Experience a user-friendly interface that provides intuitive access to powerful quantum finance tools, making it accessible to both seasoned professionals and those new to the field.
+
+7. **Customizable Modules:**
+   Tailor the system to your specific needs with modular components, allowing for easy customization and adaptation to various financial scenarios and trading preferences.
+
+8. **Security and Privacy:**
+   Prioritize the security and privacy of your financial data with robust encryption and protection measures, ensuring the confidentiality of sensitive information.
+
+### How to Use:
+
+1. **Clone the Repository:**
+   Get started by cloning the Quantum Finance Forecast and Trading System repository to your local environment.
+
+2. **Install Dependencies:**
+   Follow the provided instructions to install the necessary dependencies and libraries required for seamless execution.
+
+3. **Explore Examples:**
+   Dive into the repository's examples and documentation to understand how to implement various quantum-powered financial models and trading strategies.
+
+4. **Contribute and Collaborate:**
+   Contribute to the development of this innovative system or collaborate with other users to enhance its capabilities and applicability in diverse financial contexts.
+
+Empower your financial endeavors with the Quantum Finance Forecast and Trading System, where cutting-edge technology meets the intricacies of the financial world. Revolutionize your approach to forecasting and trading by embracing the quantum advantage.
+
 ## Background & Abstrct
 
 With average global trading transaction amounts exceeding 5 tril-lion dollars per day, foreign exchange (FOREX) is one of the largest financial markets in the world. With so much competition, finding a competitive ad-vantage, both through an intelligent financial forecasting systems and trad-ing strategy, can be highly effective and extremely profitable. With the adop-tion of the latest R&D on Quantum Finance Theory (QFT), we propose to build a more effective prediction and trading algorithm to better handle the highly chaotic and complex foreign exchange market. It is for this reason we put forward a novel Recurrent Neural Network based Quantum Finance Forecast and Trading System (RNN-QFFTS) for neural network prediction in tandem with the employment of a new kind of financial indicator called Quantum Price Level (QPL). From the experimental perspective, we com-pare the performance of 3 prediction models: FFBP, RNN, and RNN-QFFTS. Using the Meta Trader (MT) platform, we analyzed the previous 2048 days of daily trading data for each forex product to predict the following day’s open, high, low, and close. Utilizing our RNN-QFFTS, we then compare 3 trading algorithms: Moving Average with RSI (Relative Strength Index), Moving Average with RSI and QPL, and Moving Average with RSI and QPL integrated with our prediction. We find that QPL helps to accelerate gradient substantially which enabled us to handle a greater number of products in a smaller time period. With the application of QPL, in cooperation with major financial indicators, RNN-QFFTS achieves promising success rate in terms of trades and profitability. With the implementation of RNN-QFFTS, we were able to gauge prime times for investing occurring, at most, once a day or every other day. This prime time lowered the risk we had when engaging in trades and has the potential to increase the profitability substantially as compared to the traders not using QPL indicators or financial prediction re-sults for trading.
