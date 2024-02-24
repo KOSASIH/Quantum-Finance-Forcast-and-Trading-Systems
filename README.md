@@ -1,5 +1,7 @@
 # RNN-QFFTS:
 
+Explore the cutting edge of financial technology with our Quantum Finance Forecast and Trading System. This Git repository houses advanced algorithms and models harnessing quantum computing principles to revolutionize financial forecasting and trading strategies. Stay ahead of the market with this innovative and powerful tool for quantitative analysis and decision-making.
+
 # Description 
 
 Welcome to the Quantum Finance Forecast and Trading System, a groundbreaking repository at the intersection of quantum computing and financial technology. This comprehensive platform is designed to redefine how we approach forecasting and trading in the dynamic world of finance.
