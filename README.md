@@ -93,3 +93,14 @@ Install MateTrader4
 5. Selecting most valuable features with genetic algorithm
 > Run feature_selection.py
 
+# Aknowledgement 
+
+We extend our heartfelt gratitude to all individuals and organizations who have contributed to the realization of the Quantum Finance Forecast and Trading System. Your dedication, expertise, and collaborative spirit have been instrumental in shaping this cutting-edge platform.
+
+Special thanks to the developers, researchers, and quantum computing experts whose tireless efforts have fueled the creation of advanced algorithms and models. Your commitment to pushing the boundaries of financial technology is truly commendable.
+
+We also appreciate the broader community of users and contributors who have provided valuable feedback, insights, and suggestions. Your engagement has played a crucial role in refining and enhancing the system.
+
+This project wouldn't be possible without the continuous support from our partners and stakeholders. Your belief in the potential of quantum computing in finance has been a driving force behind our pursuit of excellence.
+
+As we embark on this transformative journey, we acknowledge and appreciate the collective effort that has brought the Quantum Finance Forecast and Trading System to fruition. Together, we look forward to shaping the future of finance through innovation, collaboration, and technological advancement.
